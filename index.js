@@ -1,3 +1,1 @@
-let a = 1;
-let b = 2;
-console.log(`${a} + ${b} = ${a+b}`);
+console.log(`1 + 2 = ${1+2}`);
